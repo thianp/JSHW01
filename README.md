@@ -1,1 +1,1 @@
-# JS01-Datatype-and-Variable-Lab-
+# JS01-Datatype-and-Variable
