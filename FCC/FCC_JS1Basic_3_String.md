@@ -4,7 +4,8 @@
 [1.Declare String Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables)
 ```js
 // Finish and Paste your solution here
-
+// var myFirstName = "T";
+// var myLastName = "P";
 
 ```
 
@@ -12,21 +13,21 @@
 [2.Escaping Literal Quotes in StringsPassed](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings)
 ```js
 // Finish and Paste your solution here
-
+// const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
 
 ```
 
 [3.Quoting Strings with Single Quotes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/quoting-strings-with-single-quotes)
 ```js
 // Finish and Paste your solution here
-
+// const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 
 ```
 
 [4.Escape Sequences in Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings)
 ```js
 // Finish and Paste your solution here
-
+// const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
 
 ```
 
@@ -35,7 +36,7 @@
 [1.Concatenating Strings with Plus Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-plus-operator)
 ```js
 // Finish and Paste your solution here
-
+// const myStr = "This is the start. " + "This is the end."; // Change this line
 
 ```
 
@@ -43,7 +44,9 @@
 [2.Concatenating Strings with the Plus Equals Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator)
 ```js
 // Finish and Paste your solution here
-
+// let myStr;
+// myStr = "This is the first sentence. ";
+// myStr += "This is the second sentence.";
 
 ```
 
